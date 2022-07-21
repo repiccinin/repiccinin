@@ -1,4 +1,4 @@
-- 👋 Hi, I’m [Regiane](@repiccinin)
+- 👋 Hi, I’m [Regiane](https://linkedin.com/in/repiccinin/)
 - 👀 I’m interested in Software Development
 - 🌱 I’m currently learning Java IDEs
 - 💞️ I'm participating in Santander Code Girls Bootcamp
