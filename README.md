@@ -1,9 +1,11 @@
-- 👋 Hi, I’m @repiccinin
+- 👋 Hi, I’m [Regiane](@repiccinin)
 - 👀 I’m interested in Software Develop
-- 🌱 I’m currently learning Git/GitHub
+- 🌱 I’m currently learning Java IDEs
 - 💞️ I'm participating in Santander Code Girls Bootcamp
 - 📫 How to reach me repiccinin@yahoo.com.br
 
+### Repositório Dio:
+	*Repositório para armazenar materiais complementares e projetos desenvolvidos no Bootcamp Santander Code Girls*
 ''' Hello
 '''
 <!---
