@@ -1,6 +1,6 @@
 - 👋 Hi, I’m [Regiane](https://linkedin.com/in/repiccinin/)
 - 👀 I’m interested in Software Development
-- 🌱 I’m currently learning Java IDEs
+- 🌱 I’m currently learning Conditional logic and Flow control in Java
 - 💞️ I'm participating in Santander Code Girls Bootcamp
 - 📫 How to reach me repiccinin@yahoo.com.br
 
