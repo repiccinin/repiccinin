@@ -1,6 +1,6 @@
 - 👋 Hi, I’m [Regiane Piccinin](https://linkedin.com/in/repiccinin/)
 - 👀 I’m interested in Software Development
-- 🌱 I’m currently learning Cobol
+- :book: I’m currently learning Cobol
 - :briefcase: I'm currently working at Foursys, allocated at FIS Global
 - 📫 How to reach me repiccinin@yahoo.com.br
 
